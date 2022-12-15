@@ -1,0 +1,11 @@
+#div-maps
+{
+    height: 800px;
+}
+
+#mapa
+{
+    position: relative;
+    top: 110px;
+    left: 28%;
+}

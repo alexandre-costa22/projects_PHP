@@ -1,0 +1,52 @@
+.container {
+    max-width: 640px;
+    background-color: #cecccc;
+    margin: 100px auto;
+    height: 565px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 1px 2px;
+  }
+  h1 {
+    text-align: center;
+    font-family: 'IM Fell French Canon SC', serif;
+  }
+  input {
+    display: block;
+    width: 65%;
+    margin-bottom: 10px;
+    height: 25px;
+    margin: 10px auto;
+    font-family: 'IM Fell French Canon SC', serif;
+  }
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 5px;
+    width: 150px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  label {
+    font-family: 'Orbitron', sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    display: block;
+    margin-left: 110px;
+  }
+  form {
+    font-family: 'Open Sans', sans-serif;
+  }
+  textarea {
+    display: block;
+    margin-inline: auto;
+    width: 65%;
+  }
+  a {
+    text-decoration: none;
+  }
+  .social {
+    margin: 0 auto;
+    width: fit-content;
+  }
+  .social svg {
+    margin: 0 5px;
+  }
+  

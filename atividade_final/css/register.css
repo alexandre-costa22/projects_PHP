@@ -1,0 +1,15 @@
+#div-register-page
+{
+    position: relative;
+    height: 550px;
+    width: 500px;
+    top: 50px;
+    left: 35%;
+    padding-top: 30px;
+
+    border-style: inset;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: #000;
+    background-color: #ffffff;
+}

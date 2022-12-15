@@ -1,0 +1,43 @@
+#dash-painel-1
+{
+    display: block;
+    position: relative;
+    background-color: aqua;
+    height: 190px;
+    width: 480px;
+    top: 10px;
+    padding: 30px;
+    left: 37%;
+    border-style: inset;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: #000;
+    background-color: #ffffff;
+}
+#title-dash-1
+{
+    left: 30px;
+    text-align: center;
+}
+.dash-buttons
+{
+    size: 30px;
+}
+#dash-painel-2
+{
+    display: block;
+    position: relative;
+    background-color: aqua;
+    height: 500px;
+    width: 480px;
+    padding: 30px;
+    padding-top: 1px;
+    top: 50px;
+    left: 37%;
+    border-style: inset;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: #000;
+    background-color: #ffffff;
+
+}
